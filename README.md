@@ -1,8 +1,8 @@
 ## Manuel Chichi
 ### Trivia
 - 🔭 I’m currently working on _Mikroways_
-- 🧰 My role is Devops Engineer
-- 🌱 I’m currently learning _logging tools and techniques_
+- 🧰 My role is _Devops Engineer_
+- 🌱 I’m currently learning _logging tools_
 - 💬 Ask me about ( Devops, Kubernetes, Docker )
 - 📫 Reach me via my email <manuelchichi96@gmail.com>
 
